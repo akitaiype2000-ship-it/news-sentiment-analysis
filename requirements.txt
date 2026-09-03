@@ -1,0 +1,6 @@
+requests
+textblob
+pandas
+matplotlib
+psycopg2-binary
+boto3
