@@ -167,8 +167,8 @@ http://localhost:8501
 
 ### Dashboard
 <img width="1857" height="821" alt="Screenshot 2026-09-04 121926" src="https://github.com/user-attachments/assets/066712f5-e248-4baa-94f5-cd22ecf5f400" />
-> A<img width="1901" height="702" alt="Screenshot 2026-09-04 121859" src="https://github.com/user-attachments/assets/acda5467-09ee-49e5-8f38-9592f3839d0f" />
-dd a screenshot of your Streamlit dashboard here.<img width="1881" height="812" alt="Screenshot 2026-09-04 121838" src="https://github.com/user-attachments/assets/a1300146-d222-4375-9fa2-0a0250a959b5" />
+> <img width="1901" height="702" alt="Screenshot 2026-09-04 121859" src="https://github.com/user-attachments/assets/acda5467-09ee-49e5-8f38-9592f3839d0f" />
+> <img width="1881" height="812" alt="Screenshot 2026-09-04 121838" src="https://github.com/user-attachments/assets/a1300146-d222-4375-9fa2-0a0250a959b5" />
 
 
 Example:
