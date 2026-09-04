@@ -1,6 +1,8 @@
-requests
-textblob
+streamlit
 pandas
-matplotlib
+sqlalchemy
 psycopg2-binary
 boto3
+matplotlib
+requests
+textblob
